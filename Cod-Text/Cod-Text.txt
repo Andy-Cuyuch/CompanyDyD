@@ -1,0 +1,21 @@
+/*---------Intrucciones -----------*/
+
+-------instalacionde dependencias-----
+
+ng add @angular/material = Instalacion de angular material
+
+npm i = instalacion de paquetes 
+
+Add-Migration <initial> = 
+
+update-database = 
+
+Add-Migration v0.1 = Para poder actualizar la base de datos 
+
+
+
+
+
+
+
+
